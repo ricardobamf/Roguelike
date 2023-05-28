@@ -1,9 +1,200 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T16:51:06.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" version="21.3.5" etag="hW-yGEj872MclcRk33e8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-28T17:53:48.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="l0SJOWL5X43hXS0rTfKR" version="21.3.5" type="github">
   <diagram name="Página-1" id="6EzTextcwqXLkR1ZRIQe">
-    <mxGraphModel>
+    <mxGraphModel dx="2359" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-1" target="GNOp9yawpGQOeE-_GoTY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-1" target="GNOp9yawpGQOeE-_GoTY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-1" target="GNOp9yawpGQOeE-_GoTY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-1" value="GameObject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-759" y="234" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-4" target="GNOp9yawpGQOeE-_GoTY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-4" target="GNOp9yawpGQOeE-_GoTY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-4" target="GNOp9yawpGQOeE-_GoTY-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-4" value="Item" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-759" y="324" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-6" target="GNOp9yawpGQOeE-_GoTY-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-6" target="GNOp9yawpGQOeE-_GoTY-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-6" value="Tile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-919" y="324" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-8" target="GNOp9yawpGQOeE-_GoTY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-8" target="GNOp9yawpGQOeE-_GoTY-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-8" value="Character" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-589" y="324" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-10" target="GNOp9yawpGQOeE-_GoTY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-10" value="Enemy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-559" y="424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-20" value="BadGuy&lt;br&gt;Bat&lt;br&gt;Boss&lt;br&gt;Skeleton&lt;br&gt;Thief" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-559" y="504" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-22" value="Sword&lt;br&gt;Hammer&lt;br&gt;Platebody&lt;br&gt;Godsword&lt;br&gt;GoodMeat" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-699" y="424" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-26" value="Key" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-839" y="424" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-35" target="GNOp9yawpGQOeE-_GoTY-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-35" value="Path" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1079" y="324" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-40" value="Floor&lt;br&gt;Grass&lt;br&gt;Trap&lt;br&gt;Wall&lt;br&gt;Black&lt;br&gt;Green&lt;br&gt;Red&lt;br&gt;RedGreen&lt;br&gt;Fire" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-979" y="424" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-47" value="Door&lt;br&gt;DoorWay&lt;br&gt;StairsDown&lt;br&gt;StairsUp" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1119" y="424" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-49" value="Hero" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-419" y="424" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-51" value="Direction&lt;br&gt;Position&lt;br&gt;Vector2D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-489" y="234" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-52" value="FireTile&lt;br&gt;ImageMatrixGUI&lt;br&gt;ImageTile&lt;br&gt;FireBallThread&lt;br&gt;Engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-329" y="234" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-53" value="StatusBar&lt;br&gt;Room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-169" y="234" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-54" target="GNOp9yawpGQOeE-_GoTY-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-54" target="GNOp9yawpGQOeE-_GoTY-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-54" value="Engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-57" target="GNOp9yawpGQOeE-_GoTY-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-57" value="Variáveis" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-59" value="&lt;div style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;Hero &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;hero&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;Room &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;currentRoom&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;List&amp;lt;Room&amp;gt; &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;allRooms&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;List&amp;lt;GameObject&amp;gt; &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;gameObjects&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc7832&quot;&gt;private&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;StatusBar &lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;statusBar&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="230" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-63" target="GNOp9yawpGQOeE-_GoTY-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-63" value="Métodos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-64" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#cc7832&quot;&gt;public&lt;/font&gt;&lt;span style=&quot;color: rgb(169, 183, 198);&quot;&gt; void &lt;span style=&quot;color:#ffc66d;&quot;&gt;notify&lt;/span&gt;(&lt;span style=&quot;color:#cc7832;&quot;&gt;int &lt;/span&gt;keyPressed)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc7832&quot;&gt;public&lt;/font&gt;&lt;font color=&quot;#a9b7c6&quot;&gt; List&amp;lt;Room&amp;gt; &lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;createRoomList&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;()&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#cc7832&quot;&gt;public &lt;/font&gt;&lt;span style=&quot;color: rgb(169, 183, 198);&quot;&gt;void &lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;changeRoom&lt;/span&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="230" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-68" target="GNOp9yawpGQOeE-_GoTY-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-68" target="GNOp9yawpGQOeE-_GoTY-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1270" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-68" value="StatusBar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-70" target="GNOp9yawpGQOeE-_GoTY-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-70" value="Variáveis" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-71" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc7832&quot;&gt;private &lt;/font&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;List&amp;lt;ImageTile&amp;gt; &lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;background&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;List&amp;lt;ImageTile&amp;gt; &lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;health&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;List&amp;lt;ImageTile&amp;gt; &lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;bag&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;List&amp;lt;ImageTile&amp;gt; &lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;fire&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="219" width="300" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-73" target="GNOp9yawpGQOeE-_GoTY-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-73" value="Métodos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-74" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#cc7832&quot;&gt;public void&lt;/font&gt;&lt;span style=&quot;color: rgb(169, 183, 198);&quot;&gt; &lt;span style=&quot;color:#ffc66d;&quot;&gt;setBackground&lt;/span&gt;()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc7832&quot;&gt;public void&lt;/font&gt; &lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;setHealth&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;()&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc7832&quot;&gt;public void&lt;/font&gt; &lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;setBag&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;()&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc7832&quot;&gt;public void&lt;/font&gt; &lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;setFire&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;()&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#cc7832&quot;&gt;public void&lt;/font&gt; &lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;updateStatusTiles&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;()&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="220" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-77" target="GNOp9yawpGQOeE-_GoTY-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-77" target="GNOp9yawpGQOeE-_GoTY-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-77" value="Room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-79" target="GNOp9yawpGQOeE-_GoTY-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-79" value="Variáveis" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-80" value="&lt;div style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;List&amp;lt;GameObject&amp;gt; &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;gameObjects&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;List&amp;lt;Enemy&amp;gt; &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;enemies&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;List&amp;lt;Item&amp;gt; &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;items&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;private &lt;/span&gt;List&amp;lt;Path&amp;gt; &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;paths&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="640" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNOp9yawpGQOeE-_GoTY-82" target="GNOp9yawpGQOeE-_GoTY-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-82" value="Métodos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNOp9yawpGQOeE-_GoTY-83" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc7832&quot;&gt;private&lt;/font&gt;&lt;span style=&quot;color: rgb(169, 183, 198);&quot;&gt; void &lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;readFileHash&lt;/span&gt;(File room)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc7832&quot;&gt;public&lt;/font&gt;&lt;font color=&quot;#a9b7c6&quot;&gt; void &lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;buildMap&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;(File room)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc7832&quot;&gt;private &lt;/font&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;void &lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;charToTile&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;char &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;c&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;Position position)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc7832&quot;&gt;public &lt;/font&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;Position &lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;getPositionOfDoor&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;int &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;toPath)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="430" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
